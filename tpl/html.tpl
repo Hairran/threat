@@ -15,7 +15,7 @@
 
   <div>
    <br />
-   <h2><a href="https://github.com/mr-xn/threat-broadcast">威胁情报播报</a></h2>
+   <h2><a href="https://hairran.github.io/threat/">威胁情报播报</a></h2>
    <br />
 
 %(table)s
