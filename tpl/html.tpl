@@ -8,7 +8,7 @@
   <meta name="author" content="EXP: www.exp-blog.com" />
   <meta name="generator" content="Mrxn github.com/Mr-xn" />
   <link rel="stylesheet" type="text/css" href="./css/page.css" />
-  <title>Threat-Broadcast</title>
+  <title>威胁情报</title>
  </head>
 
  <body class="html">
